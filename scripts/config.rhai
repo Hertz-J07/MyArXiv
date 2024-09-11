@@ -1,6 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["Transformer"];
-let titles_method = ["Fairness", "Robustness", "Disentanglement"];
+let titles_method = ["Fairness", "Robustness", "Disentanglement", "Diffusion", "Latent"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Mingli Song", "Jie Song", "Zunlei Feng"];
 
